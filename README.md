@@ -2,6 +2,7 @@
 It is repository of talking Drobot. A virtual animated conversation on visualization. 
 
 -------------------------------------
+**Click on following link to check animation:**
 1. [Talking Drobot#1](https://youtu.be/I6HZChVPSUA)
 
 --------------------------------------
