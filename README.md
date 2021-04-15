@@ -15,7 +15,7 @@ You can use it for non comercial purpose without any modification with credit to
 
 --------------------------------------
 Registered DOIs :
-1. Talking Drobot#1 : 10.13140/RG.2.2.28441.13922
+1. [Talking Drobot#1](https://youtu.be/I6HZChVPSUA) : 10.13140/RG.2.2.28441.13922 
 
 
 --------------------------------------
