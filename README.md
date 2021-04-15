@@ -1,6 +1,9 @@
 # Talking Drobot
 It is repository of talking Drobot. A virtual animated conversation on visualization. 
 
+-------------------------------------
+1. [Talking Drobot#1](https://youtu.be/I6HZChVPSUA)
+
 --------------------------------------
 Data Source : [Dr. Ateendra Jha](https://www.kaggle.com/drateendrajha/code)
 
